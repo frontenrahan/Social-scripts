@@ -1,9 +1,9 @@
 printf "\n\n"
-printf "1. Install FbInfo"
+printf "1. Install FbInfo..."
 printf "\n"
 cd $HOME
 cd Facebook_clone
-git clone http://github.com/rjmister24/FbInfo
+git clone https://github.com/frontenrahan/Fbinfo
 cd FbInfo
 ls
 printf "Install complate..."
@@ -11,23 +11,11 @@ printf "\n"
 
 
 printf "\n\n"
-printf "2. Install FbBrute"
+printf "3. Install FrienBrute..."
 printf "\n"
 cd $HOME
 cd Facebook_clone
-git clone http://github.com/rjmister24/FbBrute
-cd FbBrute
-ls
-printf "Install complate..."
-printf "\n"
-
-
-printf "\n\n"
-printf "3. Install FrienBrute"
-printf "\n"
-cd $HOME
-cd Facebook_clone
-git clone http://github.com/rjmister24/FrienBrute
+git clone https://github.com/frontenrahan/FrienBrute
 cd FrienBrute
 ls
 printf "Install complate..."
@@ -35,11 +23,11 @@ printf "\n"
 
 
 printf "\n\n"
-printf "4. Install Logcracks"
+printf "4. Install Phishing tool..."
 printf "\n"
 cd $HOME
 cd Facebook_clone
-git clone http://github.com/rjmister24/Logcracks
+git clone https://github.com/frontenrahan/Pishtool
 cd Logcracks
 ls
 printf "Install complate..."
